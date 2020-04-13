@@ -1,0 +1,78 @@
+*{
+    text-align: center;
+    box-sizing: border-box;
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.title-wrapper{
+    background-color: lightblue;
+    height:300px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.tell{
+    padding:30px;
+}
+
+ul{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    padding:30px;
+    
+    
+}
+
+li{
+    margin:0 auto;
+}
+
+
+.navbar{
+    background-color: lightgreen;
+    
+}
+
+
+.main-wrapper{
+   margin-top:;
+}
+
+.main h1{
+    padding:40px;
+    background-color: lightblue;
+}
+
+.img-detail{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    margin:50px;
+    align-items:center;
+}
+.img-detail2{
+    display:flex;
+}
+
+.truck{
+    width:100%;
+}
+
+.main .detail{
+    background-color: lightgreen;
+    padding:40px;
+    margin:10px;
+    border-radius:20px;
+    
+    
+}
+
+.footer{
+    background-color: lightblue;
+    padding:20px;
+    color:white;
+}
